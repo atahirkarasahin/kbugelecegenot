@@ -8,7 +8,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 130
 
-title: Contact
+title: KBÜ'deki İlk Günümden Mezuniyetime Not
 subtitle:
 
 content:
@@ -54,4 +54,6 @@ content:
 
 design:
   columns: '2'
+
+
 ---
