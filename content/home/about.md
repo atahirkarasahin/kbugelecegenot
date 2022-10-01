@@ -5,8 +5,8 @@ widget: contact
 # This file represents a page section.
 headless: true
 
-# Order that this section appears on the page.
-weight: 150
+# Order that this section appears on the page 130.
+weight: 100
 #KBÜdeki İlk Günümden Mezuniyetime Not
 title: İlk Günümden Mezuniyetime Not
 subtitle:
