@@ -6,9 +6,9 @@ widget: contact
 headless: true
 
 # Order that this section appears on the page.
-weight: 130
-
-title: KBÜ'deki İlk Günümden Mezuniyetime Not
+weight: 150
+#KBÜdeki İlk Günümden Mezuniyetime Not
+title: İlk Günümden Mezuniyetime Not
 subtitle:
 
 content:
